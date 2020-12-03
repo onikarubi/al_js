@@ -26,5 +26,5 @@ class Algorithm {
 }
 const fizzbuzz = new Algorithm()
 fizzbuzz.DoFB()
-
+//test
 
